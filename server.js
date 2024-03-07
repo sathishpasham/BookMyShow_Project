@@ -13,5 +13,5 @@ app.use('/',userRoute)
 
 
 app.listen(8097,()=>{
-    console.log('server started!')
+    console.log('server has started at the given port!')
 })
